@@ -16,4 +16,4 @@ venv.bak/
 pythonenv*
 
 # others applications
-frontend/
+# frontend/
